@@ -91,7 +91,7 @@ export function ResizableNavbar() {
                   size="sm"
                   asChild
                 >
-                  <a href="/CV_MUHAMMAD_NURANGGI_HERMAWAN_2025.pdf" download>
+                  <a href="/CV_MUHAMMAD_NURANGGI_HERMAWAN.pdf" download>
                     <Download className="mr-2 h-4 w-4" />
                     Download CV
                   </a>
@@ -188,7 +188,7 @@ export function ResizableNavbar() {
                     className="w-full"
                     asChild
                   >
-                    <a href="/CV_MUHAMMAD_NURANGGI_HERMAWAN_2025.pdf" download>
+                    <a href="/CV_MUHAMMAD_NURANGGI_HERMAWAN.pdf" download>
                       <Download className="mr-2 h-4 w-4" />
                       Download CV
                     </a>

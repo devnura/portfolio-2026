@@ -42,7 +42,7 @@ export function ContactSection() {
                   <p className="text-muted-foreground mb-2">Email me at</p>
                   <a
                     href="mailto:nuranggihermawan@gmail.com"
-                    className="text-2xl font-bold text-primary hover:underline"
+                    className="text-lg sm:text-2xl font-bold text-primary hover:underline break-all"
                   >
                     nuranggihermawan@gmail.com
                   </a>
@@ -68,7 +68,7 @@ export function ContactSection() {
                     className="w-full"
                     asChild
                   >
-                    <a href="/CV_MUHAMMAD_NURANGGI_HERMAWAN_2025.pdf" download>
+                    <a href="/CV_MUHAMMAD_NURANGGI_HERMAWAN.pdf" download>
                       <Download className="mr-2 h-5 w-5" />
                       Download CV
                     </a>

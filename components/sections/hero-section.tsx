@@ -88,7 +88,7 @@ export function HeroSection() {
               <a href="#projects">View Projects</a>
             </Button>
             <Button size="lg" variant="secondary" asChild className="w-full sm:w-auto">
-              <a href="/CV_MUHAMMAD_NURANGGI_HERMAWAN_2025.pdf" download>
+              <a href="/CV_MUHAMMAD_NURANGGI_HERMAWAN.pdf" download>
                 <Download className="mr-2 h-5 w-5" />
                 Download CV
               </a>
